@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agabazeo
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...HTLM, CSS, Javascript.
-- 💞️ I’m looking to collaborate on ...Web Development Project
+- 🌱 I’m currently learning ...Fullstack web development.
+- 💞️ I’m looking to collaborate on ...Web Development Project.
 - 📫 How to reach me ...gallaway.biz2014@gmail.com
 
 <!---
